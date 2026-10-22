@@ -2,7 +2,7 @@
 
 Aplicación web de punto de venta para un almacén de barrio, pensada para usarse desde un teléfono Android con lector de códigos de barras y por una vendedora sin experiencia técnica.
 
-**[Probar la demo](https://eth3rn4l.github.io/pokun-pos/)** — en la demo los datos se guardan solo en tu navegador.
+**[Probar la demo](https://dibahamondez.github.io/pokun-pos/)** — en la demo los datos se guardan solo en tu navegador.
 
 <p>
   <img src="docs/caja.png" alt="Pantalla de venta con productos escaneados" width="300">
